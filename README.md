@@ -1,5 +1,3 @@
----
-
 ## Información académica
 
 **Trabajo Práctico 3 – Inteligencia Artificial**  
@@ -10,5 +8,3 @@
 **Carrera:** Licenciatura en Informática  
 
 Universidad Siglo 21 – 2026
-
----
